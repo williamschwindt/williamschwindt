@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.williamschwindt.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.williamschwindt.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://williamschwindt.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.williamschwindt.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/william-schwindt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-William%20Schwindt-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:williammschwindt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-williammschwindt%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

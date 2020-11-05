@@ -1,13 +1,13 @@
 <h2> Hey there! I'm William.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>About Me </h3>
 
 - 🌱 &nbsp; Learning Full Stack Web Development and Computer Science at Lambda School.
 - 🔭 &nbsp; Always learning something new.
 - 🎸 &nbsp; Love playing guitar.
 - 💼 &nbsp; Looking for work.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -26,7 +26,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3>Connect with Me </h3>
 
 <p align="center">
 <a href="https://williamschwindt.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.williamschwindt.com-blue?style=flat-square&logo=google-chrome"></a>

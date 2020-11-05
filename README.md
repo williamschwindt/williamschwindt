@@ -17,7 +17,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🛢 &nbsp;
-  ![PostgreSQL](https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_logo_icon_146389.png)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
